@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # General aliases.
-alias cls="clear"
+alias cl="clear"
+alias neo="neofetch"
 
 # Confirm overwrite.
 alias cp='cp -i'

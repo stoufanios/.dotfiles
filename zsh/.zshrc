@@ -74,7 +74,3 @@ xset r rate 210 40
 export EDITOR='nvim'
 export TERMINAL='alacritty'
 export BROWSER='brave'
-
-# Custom scripts.
-alias nostinit="source ~/.local/bin/nostinit.sh"
-alias terrparse="source ~/.local/bin/terrparse.sh"
